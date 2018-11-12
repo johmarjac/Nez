@@ -1,5 +1,6 @@
-{
+﻿{
   "dependencies": {
+    "MonoGame.Framework.Portable": "3.7.0.1708"
   },
   "frameworks": {
     ".NETPortable,Version=v4.5,Profile=Profile111": {}
